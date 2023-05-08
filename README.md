@@ -37,8 +37,3 @@
 <a href="https://aws.amazon.com/it/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vsc" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/it/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="40" height="40"/> </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ValerioCristofori&show_icons=true&title_color=5e8cf4&text_color=ffffff&bg_color=262d38&locale=en&layout=compact" alt="ValerioCristofori" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ValerioCristofori&show_icons=true&title_color=5e8cf4&text_color=ffffff&bg_color=262d38&locale=en" alt="ValerioCristofori" /></p>
-
