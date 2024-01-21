@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Valerio+Cristofori;A+Data+Engineer+and+tech+enthusiast+ )](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on a *financial project and data integration* 
-- 🌱 I’m currently learning *data integration*
+- 🔭 I’m currently working on *data integration* 
+- 🌱 I’m currently learning *ML, LLM and Web3*
 - 👯 I’m looking to collaborate on [tensorflow](https://github.com/tensorflow/tensorflow)
-- 💬 Ask me about **java, ml, cloud**
 - 📫 My site: [valeriocristofori](https://valeriocristofori.github.io)
 
 
