@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on *data integration* 
 - 🌱 I’m currently learning *ML, LLM and Web3*
-- 👯 I’m looking to collaborate on [tensorflow](https://github.com/tensorflow/tensorflow)
 - 📫 My site: [valeriocristofori](https://valeriocristofori.github.io)
 
 
