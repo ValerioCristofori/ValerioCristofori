@@ -65,6 +65,10 @@ I design and build cloud-native architectures and integration platforms, bridgin
 <summary><b>Integration & Data</b></summary>
 <br/>
 <p>
+<a href="https://www.mulesoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/maboraborede/maboraborede-icon.svg"           
++alt="mulesoft" width="40" height="40"/> </a>                                                                                                   
+<a href="https://www.salesforce.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg"      
++alt="salesforce" width="40" height="40"/> </a>     
 <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
 <a href="https://spark.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> </a>
 <a href="https://graphql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
