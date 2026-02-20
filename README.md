@@ -57,7 +57,6 @@ I design and build cloud-native architectures and integration platforms, bridgin
 <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 </details>
@@ -91,19 +90,3 @@ I design and build cloud-native architectures and integration platforms, bridgin
 </p>
 </details>
 
-<br/>
-
-<div align="center">
-
-### Currently
-
-Designing cloud architectures and integration solutions
-Exploring AI/ML, LLM and cloud-native patterns
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=valeriocristofori&show_icons=true&hide_border=true&bg_color=0A1628&title_color=6BA3D6&text_color=D4C0A0&icon_color=B08968" alt="GitHub Stats" />
-</div>
