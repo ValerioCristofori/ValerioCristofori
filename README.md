@@ -1,37 +1,101 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Valerio+Cristofori;A+Data+Engineer+and+tech+enthusiast+ )](https://git.io/typing-svg)
+<div align="center">
 
-- 🔭 I’m currently working on *data integration* 
-- 🌱 I’m currently learning *ML, LLM and Web3*
-- 📫 My site: [valeriocristofori](https://valeriocristofori.github.io)
+# Valerio Cristofori
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=6BA3D6&center=true&vCenter=true&width=500&lines=Cloud+Engineer;Solution+Architect+for+Integration;Building+scalable+distributed+systems)](https://git.io/typing-svg)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
-<a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> </a>
-<a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/it/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="googlecloud" width="40" height="40"/> </a>
-<a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/it/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/> </a>
-<a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_pig/apache_pig-icon.svg" alt="hadoop" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/it/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vsc" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/it/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="40" height="40"/> </a>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1628?style=for-the-badge&logo=linkedin&logoColor=6BA3D6)](https://www.linkedin.com/in/valerio-cristofori/)
+[![GitHub](https://img.shields.io/badge/GitHub-0A1628?style=for-the-badge&logo=github&logoColor=6BA3D6)](https://github.com/valeriocristofori)
+[![Website](https://img.shields.io/badge/Website-0A1628?style=for-the-badge&logo=googlechrome&logoColor=6BA3D6)](https://valeriocristofori.github.io)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+Cloud Architecture  /  Integration Platforms  /  Distributed Systems
+```
+
+</div>
+
+<br/>
+
+### About
+
+I design and build cloud-native architectures and integration platforms, bridging complex enterprise systems with modern cloud technologies. Focused on scalability, reliability, and clean engineering.
+
+<br/>
+
+### Tech Stack
+
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
+<p>
+<img src="https://img.shields.io/badge/Java-0A1628?style=flat-square&logo=openjdk&logoColor=B08968" alt="java" />
+<img src="https://img.shields.io/badge/Python-0A1628?style=flat-square&logo=python&logoColor=B08968" alt="python" />
+<img src="https://img.shields.io/badge/Go-0A1628?style=flat-square&logo=go&logoColor=B08968" alt="go" />
+<img src="https://img.shields.io/badge/TypeScript-0A1628?style=flat-square&logo=typescript&logoColor=B08968" alt="typescript" />
+<img src="https://img.shields.io/badge/JavaScript-0A1628?style=flat-square&logo=javascript&logoColor=B08968" alt="javascript" />
+<img src="https://img.shields.io/badge/Bash-0A1628?style=flat-square&logo=gnubash&logoColor=B08968" alt="bash" />
 </p>
+</details>
+
+<details open>
+<summary><b>Cloud & Infrastructure</b></summary>
+<br/>
+<p>
+<img src="https://img.shields.io/badge/AWS-0A1628?style=flat-square&logo=amazonwebservices&logoColor=6BA3D6" alt="aws" />
+<img src="https://img.shields.io/badge/GCP-0A1628?style=flat-square&logo=googlecloud&logoColor=6BA3D6" alt="gcp" />
+<img src="https://img.shields.io/badge/Azure-0A1628?style=flat-square&logo=microsoftazure&logoColor=6BA3D6" alt="azure" />
+<img src="https://img.shields.io/badge/Terraform-0A1628?style=flat-square&logo=terraform&logoColor=6BA3D6" alt="terraform" />
+<img src="https://img.shields.io/badge/Kubernetes-0A1628?style=flat-square&logo=kubernetes&logoColor=6BA3D6" alt="kubernetes" />
+<img src="https://img.shields.io/badge/Docker-0A1628?style=flat-square&logo=docker&logoColor=6BA3D6" alt="docker" />
+</p>
+</details>
+
+<details open>
+<summary><b>Integration & Data</b></summary>
+<br/>
+<p>
+<img src="https://img.shields.io/badge/Kafka-0A1628?style=flat-square&logo=apachekafka&logoColor=D4C0A0" alt="kafka" />
+<img src="https://img.shields.io/badge/GraphQL-0A1628?style=flat-square&logo=graphql&logoColor=D4C0A0" alt="graphql" />
+<img src="https://img.shields.io/badge/PostgreSQL-0A1628?style=flat-square&logo=postgresql&logoColor=D4C0A0" alt="postgresql" />
+<img src="https://img.shields.io/badge/MongoDB-0A1628?style=flat-square&logo=mongodb&logoColor=D4C0A0" alt="mongodb" />
+<img src="https://img.shields.io/badge/Redis-0A1628?style=flat-square&logo=redis&logoColor=D4C0A0" alt="redis" />
+<img src="https://img.shields.io/badge/Elasticsearch-0A1628?style=flat-square&logo=elasticsearch&logoColor=D4C0A0" alt="elasticsearch" />
+</p>
+</details>
+
+<details open>
+<summary><b>Frameworks & Tools</b></summary>
+<br/>
+<p>
+<img src="https://img.shields.io/badge/Spring-0A1628?style=flat-square&logo=spring&logoColor=B08968" alt="spring" />
+<img src="https://img.shields.io/badge/Node.js-0A1628?style=flat-square&logo=nodedotjs&logoColor=B08968" alt="nodejs" />
+<img src="https://img.shields.io/badge/Jenkins-0A1628?style=flat-square&logo=jenkins&logoColor=B08968" alt="jenkins" />
+<img src="https://img.shields.io/badge/Git-0A1628?style=flat-square&logo=git&logoColor=B08968" alt="git" />
+<img src="https://img.shields.io/badge/Linux-0A1628?style=flat-square&logo=linux&logoColor=B08968" alt="linux" />
+</p>
+</details>
+
+<br/>
+
+<div align="center">
+
+### Currently
+
+Designing cloud architectures and integration solutions
+Exploring AI/ML, LLM and cloud-native patterns
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=valeriocristofori&show_icons=true&hide_border=true&bg_color=0A1628&title_color=6BA3D6&text_color=D4C0A0&icon_color=B08968" alt="GitHub Stats" />
+</div>
